@@ -646,8 +646,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _startSpawnPos: {x: 0, y: -16, z: 0}
-  _minX: -1.68
-  _maxX: 1.68
+  _minX: -3
+  _maxX: 3
   _moveTime: 1
   _trailParticle: {fileID: 826430243}
   _explosionPrefab: {fileID: 8669984415848715307, guid: 4b10bd2f8735d9349b818d0cbd364bb2, type: 3}
@@ -5799,7 +5799,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 65d49ffa7ed03044e821e41b104621ba, type: 3}
+  m_Sprite: {fileID: 21300000, guid: dac6633e484b7684a8ead5918b236e8c, type: 3}
   m_Color: {r: 0.9960785, g: 0.2901961, b: 0.18431373, a: 1}
   m_FlipX: 0
   m_FlipY: 0
